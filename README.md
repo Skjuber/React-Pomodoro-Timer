@@ -1,3 +1,21 @@
+# Pomodoro Timer
+
+This Pomodoro Timer is a project made for practice. 
+The purpose is to create a project from scratch using a variety of tools intended for frontend development.
+
+You can test out the app's functionality [here](https://react-pomodoro-timer-chi.vercel.app/).
+
+React Slider and React Circular Progressbar were imported from  [here](https://www.npmjs.com/).   
+
+To import React Slider you need to type the following in the terminal: "npm install react-slider"
+
+To import React Circular Progressbar  you need to type the following in the terminal: "npm install --save react-circular-progressbar"
+             
+
+# Technologies
+
+- React JS 18.2.0
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
